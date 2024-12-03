@@ -1,5 +1,7 @@
 # discord-cli
-A command line interface to use Discord.
+THIS ISNT MY PROJECT!! This is just a fork that fixes an issue where users above 3.5 will get flagged as 'incompatible'. This also removes ther version check feature, so PYTHON 3.5 AND UP ONLY!!!!!
+Go check out the original! Link here:
+https://github.com/fourjr/discord-cli
 
 ## DISCLAIMER - PLEASE READ
 This is for the 99.7% who refuse to read Discord ToS (and possibly this disclaimer as well).
